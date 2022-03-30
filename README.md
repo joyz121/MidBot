@@ -1,12 +1,12 @@
 # 写字机器人
 
-##结构
+## 结构
 
   corexy结构的写字机器人，将两个控制电机集中在了中间，极大节省了空间，结构如图：
 
-<img src="\img\midbot.jpg" alt="midbot" style="zoom:45%;" />
+<img src="img\midbot.jpg" alt="midbot" style="zoom:40%;" />
 
-<img src="img\bot2.png" alt="bot2" style="zoom:20%;" />
+<img src="img\bot2.png" alt="bot2" style="zoom:14%;" />
 
 ## 控制器
 
@@ -14,11 +14,11 @@
 
 ## 写字绘图效果
 
-![6BB5EC0014AEC2683363F0402108530F](img\6BB5EC0014AEC2683363F0402108530F.png)
+<img src="img\6BB5EC0014AEC2683363F0402108530F.png" alt="6BB5EC0014AEC2683363F0402108530F" style="zoom:25%;" />
 
- <img src="img\FE45E3FE8A7B66D830B2A69EA19E08A2.png" alt="FE45E3FE8A7B66D830B2A69EA19E08A2" style="zoom:13%;" />
+ <img src="img\FE45E3FE8A7B66D830B2A69EA19E08A2.png" alt="FE45E3FE8A7B66D830B2A69EA19E08A2" style="zoom:10%;" />
 
-##其他
+## 其他
 
 一些缺点：结构不够稳定。
 
